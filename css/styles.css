@@ -320,13 +320,25 @@ footer .wrapper {
 
 /* ===== Numéro 6c ===== */
 
-footer .wrapper .menu-social a {
+.menu-social a {
+color: #fff;
+background:#F2545B ;
 
+text-decoration: none;
+
+border: 1px solid #fff;
+border-radius: 100%;
+
+width: 40px;
+height: 40px;
+
+display: flex;
+justify-content: center;
+align-items: center;
 }
 
 /* ===== Numéro 6d ===== */
-/*
+
 .menu-social a:hover {
     background: gray;
 }
-*/
